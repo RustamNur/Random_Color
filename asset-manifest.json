@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random_Color/static/css/main.383736ed.css",
+    "main.js": "/Random_Color/static/js/main.7c68e874.js",
+    "static/js/453.445ae080.chunk.js": "/Random_Color/static/js/453.445ae080.chunk.js",
+    "index.html": "/Random_Color/index.html",
+    "main.383736ed.css.map": "/Random_Color/static/css/main.383736ed.css.map",
+    "main.7c68e874.js.map": "/Random_Color/static/js/main.7c68e874.js.map",
+    "453.445ae080.chunk.js.map": "/Random_Color/static/js/453.445ae080.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383736ed.css",
+    "static/js/main.7c68e874.js"
+  ]
+}
